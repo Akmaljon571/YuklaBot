@@ -1,0 +1,18 @@
+{
+  "name": "real_pro_bor_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.59.0"
+  }
+}
